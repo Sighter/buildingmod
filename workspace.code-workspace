@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\vendor\\vsapi"
+		},
+		{
+			"path": "..\\vendor\\vscreativemod"
+		},
+		{
+			"path": "..\\vendor\\vsessentialsmod"
+		},
+		{
+			"path": "..\\vendor\\vssurvivalmod"
+		},
+		{
+			"path": "..\\..\\..\\AppData\\Roaming\\Vintagestory\\assets"
+		}
+	],
+	"settings": {}
+}

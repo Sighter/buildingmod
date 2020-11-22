@@ -1,0 +1,10 @@
+[
+  {
+    "file": "survival:blocktypes/soil/soil.json",
+    "op": "add",
+    "path": "/behaviors",
+    "value": [{
+      "name": "TestBehavior"
+    }]
+  }
+]

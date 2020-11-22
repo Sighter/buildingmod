@@ -1,0 +1,16 @@
+{
+	"type": "code",
+	"name": "BuildingMod",
+	"modid": "buildingmod",
+	"version": "0.1.0",
+
+	"description" : "THe Building mod",
+	"website": "https://github.com/copygirl/howto-example-mod",
+	"authors": [ "sighter" ],
+
+	"dependencies": {
+		"game": "1.8.0",
+		"survival": "",
+		"creative": ""
+	}
+}
